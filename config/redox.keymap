@@ -28,7 +28,7 @@
 &kp TAB       &kp Q               &kp W      &kp E         &kp R     &kp T   &mo 2                                          &mo 3                  &kp Y   &kp U          &kp I      &kp O     &kp P      &kp SV_A_RING
 &kp ESC       &kp A               &kp S      &kp D         &kp F     &kp G   &kp SV_LPAR                           &kp SV_RPAR  &kp H   &kp J          &kp K      &kp L     &kp SV_O_UMLAUT   &kp SV_A_UMLAUT
 &kp LSHFT     &kp Z               &kp X      &kp C         &kp V     &kp B   &kp PG_UP             &kp PG_DN     &kp HOME   &kp END                &kp N   &kp M          &kp COMMA  &kp DOT   &kp SV_MINUS  &mt RSHFT RET
-&kp LEFT_GUI  &kp STAR  &kp PIPE  &kp LEFT_ALT  &kp LCTRL          &kp BACKSPACE         &kp DELETE    &kp ENTER  &kp SPACE                      &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT
+&kp LEFT_GUI  &kp STAR  &kp SV_PIPE  &kp LEFT_ALT  &kp LCTRL          &kp BACKSPACE         &kp DELETE    &kp ENTER  &kp SPACE                      &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT
             >;
         };
 
