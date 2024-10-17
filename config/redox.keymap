@@ -28,7 +28,7 @@
 &kp TAB       &kp Q               &kp W      &kp E         &kp R     &kp T   &mo 2                                          &mo 3                  &kp Y   &kp U          &kp I      &kp O     &kp P      &kp SV_A_RING
 &kp ESC       &kp A               &kp S      &kp D         &kp F     &kp G   &kp SV_LPAR                           &kp SV_RPAR  &kp H   &kp J          &kp K      &kp L     &kp SV_O_UMLAUT   &kp SV_A_UMLAUT
 &kp LSHFT     &kp Z               &kp X      &kp C         &kp V     &kp B   &kp PG_UP             &kp PG_DN     &kp HOME   &kp END                &kp N   &kp M          &kp COMMA  &kp DOT   &kp SV_MINUS  &mt RSHFT RET
-&kp LEFT_GUI  &kp SV_SINGLE_QUOTE &kp PIPE2  &kp LEFT_ALT  &kp LCTRL          &kp BACKSPACE         &kp DELETE    &kp ENTER  &kp SPACE                      &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT
+&kp LEFT_GUI  &kp SV_SINGLE_QUOTE &kp NON_US_BACKSLASH  &kp LEFT_ALT  &kp LCTRL          &kp BACKSPACE         &kp DELETE    &kp ENTER  &kp SPACE                      &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT
             >;
         };
 
@@ -72,7 +72,7 @@
             // | TAB   |       |          |           |            |    | BOOTL |           ---        |  )    | BT1 | BT2 |  BT3 |  BT4 | BT5 | OUTPUT TGL |
             // | CTRL  | MUTE  |  Vol Dn  |  Vol Up   | Play/Pause |    | RESET |           ---        |  ]    | F1  | F2  |  F3  |  F4  | F5  | F6         |
             // | SHIFT | PSCRN |  PSCRN   |   CAPS    |            |    | PG_UP | PG_DOWN | --- | HOME | END   | F7  | F8  |  F9  |  F10 | F11 | F12        |
-            // | CRTL  | ALT   | ZMK_STUDIO |   LOWER   |      GUI        | LOWER | SPACE   | --- | DEL  | SPACE |   RAISE   | LEFT | DOWN | UP  |   RIGHT    |
+            // | CRTL  | ALT   | "|" |   ZMK_STUDIO   |      GUI        | LOWER | SPACE   | --- | DEL  | SPACE |   RAISE   | LEFT | DOWN | UP  |   RIGHT    |
 
             bindings = <
 &kp F1  &kp F2      &kp F3        &kp F4        &kp F5            &kp F6                                             &kp F7        &kp F8        &kp F9        &kp F10       &kp F11       &kp F12
